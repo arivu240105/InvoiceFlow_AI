@@ -141,7 +141,7 @@ The application starts at `http://localhost:5173`. Open this URL in your browser
 
 ---
 
-## 🧪 Running Integration Test
+## 🧪 Running Integration Tests
 
 We have written complete integration tests verifying API schema boundaries and session parameters. To run the test suite:
 
