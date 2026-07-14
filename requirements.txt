@@ -10,4 +10,4 @@ playwright
 pandas
 pymupdf
 google-generativeai
-google-genai==0.1.1
+
