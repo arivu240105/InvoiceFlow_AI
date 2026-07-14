@@ -13,7 +13,11 @@ app = FastAPI(
 # CORS setup
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # For demo / local sandbox simplicity. Can be restricted to Vite ports.
+    allow_origins=[
+        "https://invoice-flow-ai-rust.vercel.app",
+        "http://localhost:5173",
+        "http://127.0.0.1:5173"
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],

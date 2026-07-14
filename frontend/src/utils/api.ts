@@ -1,7 +1,8 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://127.0.0.1:8000/api';
-export const PREVIEW_BASE_URL = 'http://127.0.0.1:8000/previews';
+const VITE_API_URL = import.meta.env.VITE_API_URL || 'https://invoiceflow-ai-5t0x.onrender.com';
+const API_BASE_URL = `${VITE_API_URL}/api`;
+export const PREVIEW_BASE_URL = `${VITE_API_URL}/previews`;
 
 export interface LineItem {
   description: string;
