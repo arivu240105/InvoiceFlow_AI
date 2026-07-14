@@ -3,8 +3,6 @@ import json
 import re
 from typing import Dict, Any, List, Optional
 from pydantic import BaseModel
-from google import genai
-from google.genai import types
 from openai import OpenAI
 from backend.services.validation_service import InvoiceData, LineItem
 
