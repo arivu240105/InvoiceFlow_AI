@@ -8,6 +8,8 @@ requests
 beautifulsoup4
 playwright
 pandas
+python-multipart
 pymupdf
 google-generativeai
+
 
