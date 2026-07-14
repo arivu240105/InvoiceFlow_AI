@@ -11,5 +11,4 @@ pandas
 python-multipart
 pymupdf
 google-generativeai
-
-
+openpyxl
