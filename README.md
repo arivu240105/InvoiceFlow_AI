@@ -2,7 +2,7 @@
 
 > **Intelligent Invoice Processing & Finance Automation Assistant**
 
-InvoiceFlow AI is an AI-powered finance automation platform designed to streamline accounts payable workflows. By automatically extracting structured ledger data, running logical validations, assessing compliance risks, and generating professional Excel summaries, it saves finance teams hours of manual entry and eliminates calculation errors.
+InvoiceFlow AI is an AI-powered finance automation platform designed to streamline accounts payable workflows. By automatically extracting structured ledger data, running logical validations, assessing compliance risks, and generating professional Excel summaries, it saves finance teams hours of manual entry and eliminates calculation error
 
 ---
 
